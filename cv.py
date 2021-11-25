@@ -1,4 +1,4 @@
-#i will change the code hehehe
+#i wanna help it happen
 import numpy as np
 import cv2 as cv
 color=(0,255,255)
