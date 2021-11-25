@@ -1,6 +1,6 @@
 import numpy as np
 import cv2 as cv
-color=(255,0,0)
+color=(0,255,0)
 def empty(self):
     pass
 drawing=False
